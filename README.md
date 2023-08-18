@@ -4,10 +4,6 @@ Hi there 👋 I'm NotDBadGuy, a UI/UX Designer and Front-end Developer, passiona
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotDBadGuy&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=radical" alt="NotDBadGuy's GitHub Stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDBadGuy&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
