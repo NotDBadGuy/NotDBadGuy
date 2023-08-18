@@ -1,15 +1,33 @@
-### Hi there 👋
-
+<p align="center">
+Hi there 👋 I'm NotDBadGuy,
 I’m a UI/UX Designer and Front-end Developer, passionate about music and learning new technology. Infusing rhythm and emotion into projects for resonating products. Exploring Web3 and NFTs to revolutionize digital art.
+</p>
+
+<p align="center">
 - 📫 How to reach me: reachout@notdbadguy.xyz
+</p>
 
 <!-- GitHub Stats -->
-![NotDBadGuy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotDBadGuy&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotDBadGuy&show_icons=true" alt="NotDBadGuy's GitHub Stats">
+</p>
+
 <!-- Social Icons -->
-### Connect with me:
-[![Dribbble](https://img.shields.io/badge/Dribbble-Connect-orange)](https://dribbble.com/notdbadguy)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/notdbadguy)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-green)](https://www.notdbadguy.xyz/)
+<p align="center">
+  <a href="https://dribbble.com/notdbadguy">
+    <img src="https://img.shields.io/badge/Dribbble-Connect-orange" alt="Dribbble">
+  </a>
+  <a href="https://twitter.com/notdbadguy">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter">
+  </a>
+  <a href="https://www.notdbadguy.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green" alt="Website">
+  </a>
+</p>
+
 <!-- Spotify Now Playing -->
-### Spotify Now Playing 🎧
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/beelb951n7dkl5veqjtwmrtgb)
+<p align="center">
+  <a href="https://open.spotify.com/user/beelb951n7dkl5veqjtwmrtgb">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing">
+  </a>
+</p>
