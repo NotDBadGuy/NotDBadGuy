@@ -1,9 +1,6 @@
 <p align="center">
 Hi there 👋 I'm NotDBadGuy,
 I’m a UI/UX Designer and Front-end Developer, passionate about music and learning new technology. Infusing rhythm and emotion into projects for resonating products. Exploring Web3 and NFTs to revolutionize digital art.
-</p>
-
-<p align="center">
 - 📫 How to reach me: reachout@notdbadguy.xyz
 </p>
 
@@ -14,7 +11,7 @@ I’m a UI/UX Designer and Front-end Developer, passionate about music and learn
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://https://[dribbble.com/Notdbadguy](https://dribbble.com/Notdbadguy)">
+  <a href="https://dribbble.com/notdbadguy">
     <img src="https://img.shields.io/badge/Dribbble-Connect-orange" alt="Dribbble">
   </a>
   <a href="https://twitter.com/notdbadguy">
