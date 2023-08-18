@@ -26,3 +26,8 @@ Hi there 👋 I'm NotDBadGuy, a UI/UX Designer and Front-end Developer, passiona
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
 </p>
+
+<!-- Footer -->
+<p align="center" style="background-color: #ff00af; padding: 20px;">
+</p>
+
