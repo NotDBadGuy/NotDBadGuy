@@ -1,10 +1,5 @@
 <p align="center">
-Hi there 👋 I'm NotDBadGuy,
-I’m a UI/UX Designer and Front-end Developer, passionate about music and learning new technology. Infusing rhythm and emotion into projects for resonating products. Exploring Web3 and NFTs to revolutionize digital art.
-</p>
-
-<p align="center">
-- 📫 How to reach me: reachout@notdbadguy.xyz
+Hi there 👋 I'm NotDBadGuy, a UI/UX Designer and Front-end Developer, passionate about music and learning new technology. Infusing rhythm and emotion into projects for resonating products. Exploring Web3 and NFTs to revolutionize digital art.
 </p>
 
 <!-- GitHub Stats -->
@@ -12,8 +7,15 @@ I’m a UI/UX Designer and Front-end Developer, passionate about music and learn
   <img src="https://github-readme-stats.vercel.app/api?username=NotDBadGuy&show_icons=true" alt="NotDBadGuy's GitHub Stats">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDBadGuy&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
 <!-- Social Icons -->
 <p align="center">
+  <a href="mailto:reachout@notdbadguy.xyz">
+    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email">
+  </a>
   <a href="https://twitter.com/notdbadguy">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter">
   </a>
